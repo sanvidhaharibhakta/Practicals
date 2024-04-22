@@ -7,5 +7,5 @@
 # Load nvcc plugin
 %load_ext nvcc_plugin
 
-#MOvie dataset link
+# Movie dataset link
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
