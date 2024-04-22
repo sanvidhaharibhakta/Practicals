@@ -9,3 +9,6 @@
 
 # Movie dataset link
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+# Plant Dataset Link
+https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/code
