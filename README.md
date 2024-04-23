@@ -24,3 +24,7 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 
 # Plant Dataset Link
 https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/code
+
+# HPC Practical Link
+https://drive.google.com/drive/folders/1mzG1eMLBihK_w5X8H1QE949lLTqEb8H2
+https://drive.google.com/drive/u/0/folders/1_Nuj8qtIX7Jc4JScYLlbDLoi3iNXV9Bo
